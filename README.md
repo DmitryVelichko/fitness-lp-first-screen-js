@@ -1,7 +1,7 @@
 # fitness-lp-first-screen-js
 Fitness Landing Page (first screen). Mobile responsive. Made with HTML, CSS, JS. 
 
-View website: https://dmitryvelichko.github.io/fitness-lp-first-screen-js/
+[Check out the website online.](https://dmitryvelichko.github.io/fitness-lp-first-screen-js/)
 
 Desktop version:
 
